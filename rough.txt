@@ -1,0 +1,60 @@
+<a title="Offerings" class="cursor_pointer">Offerings</a>
+
+<ul class="menu">
+<li><a title="Offerings" class="cursor_pointer">Offerings</a></li>
+
+div
+{
+margin-left:5px;
+
+}
+
+
+<div class="row">
+  <div class="col-md-2">Offerings</div>
+  <div class="col-md-2">Resources</div>
+  <div class="col-md-2">About Us</div>
+</div>
+
+
+<footer id="footer" role="contentinfo">
+<div id="footer-top"><div class="row">
+  <div class="col-md-2">INDUSTRIES</div>
+  <div class="col-md-2">SERVICES & SOLUTIONS</div>
+  <div class="col-md-2">FUSION MOBIAPP</div>
+  <div class="col-md-2">TECHNOLOGY</div>
+  <div class="col-md-2">RESOURCES</div>
+  <div class="col-md-2">ABOUT US</div>
+  </div></div>
+<div id="footer-top-inside"></div>
+
+C:\Users\SIF-3545\Downloads\logo.png" class="img-responsive
+
+.active {
+    background-color: white;
+}
+
+
+
+<li style="color:white;margin-top:14px;margin-left:10px;">&#x2709</li>
+
+.active {
+    background-color: black;
+}
+=================================================================
+<div id="myCarousel" class="carousel slide">
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
+  <!-- Carousel items -->
+  <div class="carousel-inner">
+    <div class="active item">…</div>
+    <div class="item">…</div>
+    <div class="item">…</div>
+  </div>
+  <!-- Carousel nav -->
+  <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+  <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+</div>
